@@ -15,4 +15,4 @@ NexusOcean builds blockchain infrastructure and full-stack applications with a s
 
 ### Get in Touch
 
-- Website: [nexusocean.io](https://nexusocean.io)
+- Website: [nexusocean.dev](https://nexusocean.dev)
