@@ -1,6 +1,6 @@
 # Nexus Ocean
 
-NexusOcean builds blockchain infrastructure and full-stack applications with a security-first approach — specializing in infrastructure, smart contract integrations, and technical consulting.
+Nexus Ocean builds blockchain infrastructure and full-stack applications with a security-first approach — specializing in infrastructure, smart contract integrations, and technical consulting.
 
 ---
 
